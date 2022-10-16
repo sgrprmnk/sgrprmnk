@@ -15,9 +15,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=sgrprmnk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=marco)
 
 ### 😂 Meme of the day
-<img src="https://random-memer.herokuapp.com/" width="412px, height=200px"/>
+<img src="https://random-memer.herokuapp.com/" width="212px, height=200px"/>
 
 [![](https://visitcount.itsvg.in/api?id=sgrprmnk&label=Profile%20Views%3A%20&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
