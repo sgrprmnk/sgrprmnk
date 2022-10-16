@@ -20,4 +20,4 @@
 ### 😂 Meme of the day
 <img src="https://random-memer.herokuapp.com/" width="412px, height=200px"/>
 
-[![](https://visitcount.itsvg.in/api?id=sgrprmnk&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sgrprmnk&label=Profile%20Views%3A%20&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
