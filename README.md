@@ -19,7 +19,7 @@
     </h3>
 </div>
     <div style="width:300px; height: 200px;">
-<a href="https://ibb.co/7yZq2yB"><img src="https://i.ibb.co/q1cvk1h/Screenshot-174.png" alt="Screenshot-174" border="0"></a>
+<a href="https://ibb.co/Swkgdws"><img src="https://i.ibb.co/qYH8WYy/Screenshot-174.png" alt="Screenshot-174" border="0"></a>
 </div>
 </div>
     <div>
