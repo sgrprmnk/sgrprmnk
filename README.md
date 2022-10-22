@@ -233,7 +233,7 @@
             src="https://github-readme-stats.vercel.app/api?username=sgrprmnk&show_icons=true&locale=en"
             alt="sgrprmnk" />
     </p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sgrprmnk&" alt="sgrprmnk" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sgrprmnk&hide_border=true" alt="sgrprmnk" /></p>
 </div>
 </div>
     <div>
