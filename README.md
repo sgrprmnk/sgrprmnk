@@ -11,7 +11,7 @@
 <div style="display: flex;">
    <div>
     <h2>
-    Backend Developer
+    Backend Developer | Full Stack Developer | Java Developer
     </h2>
     <h3>
     passion for building high-quality, innovative, and fully performing software
