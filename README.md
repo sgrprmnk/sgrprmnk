@@ -18,7 +18,7 @@
      in compliance with coding standards and technical design. I innovate products that make people happy!
     </h3>
 </div>
-    <div style="width:300px; height: 200px;">
+    <div style="width:200px; height: 100px;">
 <a href="https://ibb.co/Swkgdws"><img src="https://i.ibb.co/qYH8WYy/Screenshot-174.png" alt="Screenshot-174" border="0"></a>
 </div>
 </div>
