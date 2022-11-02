@@ -74,10 +74,10 @@
     <h1>📊 GitHub Stats:</h1>
 <div style="display: flex; gap: 5px;">
     <p>&nbsp;<img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=sgrprmnk&show_icons=true&locale=en"
+            src="https://github-readme-stats.vercel.app/api?username=sgrprmnk&show_icons=true&locale=en&hide_border=true&count_private=true"
             alt="sgrprmnk" />
     </p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sgrprmnk&hide_border=true" alt="sgrprmnk" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sgrprmnk&hide_border=true&count_private=true" alt="sgrprmnk" /></p>
 </div>
 </div>
     <div>
