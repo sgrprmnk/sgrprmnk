@@ -83,7 +83,7 @@
     <div>
         <h1>🏆 GitHub Trophies: </h1>
         <img src="https://github-profile-trophy.vercel.app/?username=sgrprmnk&theme=radical&no-frame=false&no-bg=true&margin-w=4"
-            alt="">
+            alt="trophies">
     </div>
     <div>
         <h1>✍️ Quote of the day: </h1>
