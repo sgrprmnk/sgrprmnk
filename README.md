@@ -15,7 +15,7 @@
     </h2>
     <h3>
     Passion for building high-quality, innovative, and fully performing software
-     in compliance with coding standards and technical design. I innovate products that make people happy!
+     in compliance with both coding standards and technical design. I innovate products that make people happy!
     </h3>
 </div>
     <div style="width:200px; height: 100px;">
