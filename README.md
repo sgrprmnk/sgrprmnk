@@ -71,7 +71,7 @@
 </div>
     
 <div>
-    <h1>📊 GitHub Stats:</h1>
+    <h1>📊 GitHub Stats: </h1>
 <div style="display: flex; gap: 5px;">
     <p>&nbsp;<img align="center"
             src="https://github-readme-stats.vercel.app/api?username=sgrprmnk&show_icons=true&locale=en&hide_border=true&count_private=true"
@@ -87,5 +87,5 @@
     </div>
     <div>
         <h1>✍️ Quote of the day: </h1>
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=marco" alt="">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=marco">
     </div> 
