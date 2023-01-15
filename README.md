@@ -1,7 +1,7 @@
  <div style="display: flex; justify-content: space-between;">
         <div>
             <h1>
-             😊 Sagar Pramanik [ <a href="https://pramanik-sagar.netlify.app/" target="_blank">Portfolio</a>, <a href="https://drive.google.com/file/d/1qlnZngjm58hPCue2YMRwD3q_qAvmWOqd/view" target="_blank">Resume</a>, <a href="https://drive.google.com/file/d/1EZzPWxCfyxuR0pX5gCoFZ1ibTBulVv_r/view?usp=sharing" target="_blank">SkillsMap</a> ]
+             😊 Sagar Pramanik [ <a href="https://pramaniksagar.netlify.app/" target="_blank">Portfolio</a>, <a href="https://drive.google.com/file/d/1qlnZngjm58hPCue2YMRwD3q_qAvmWOqd/view" target="_blank">Resume</a>, <a href="https://drive.google.com/file/d/1EZzPWxCfyxuR0pX5gCoFZ1ibTBulVv_r/view?usp=sharing" target="_blank">SkillsMap</a> ]
 </h1>
 </div>
 <div>
