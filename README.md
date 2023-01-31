@@ -14,7 +14,8 @@
     Backend Developer | Java Developer | Full Stack Developer
     </h2>
     <h3>
-  I am driven by my passion for creating high-quality, innovative software that meets both coding  standards and technical design specifications. My persistence, perseverance, and patience, coupled with my eagerness to meet organizational or strategic objectives, enable me to consistently deliver fully-performing software  within deadlines.
+Passion for building high-quality, innovative, and fully performing software in compliance with both coding standards and technical design.
+I innovate products that make people happy!!!
     </h3>
 </div>
     <div style="width:200px; height: 100px;">
