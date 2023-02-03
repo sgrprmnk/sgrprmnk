@@ -11,12 +11,15 @@
 <div style="display: flex;">
    <div>
     <h2>
-    Backend Developer | Java Developer | Full Stack Developer
+   Java Backend | Full Stack Developer
     </h2>
     <h3>
 Passion for building high-quality, innovative, and fully performing software in compliance with both coding standards and technical design.
 I innovate products that make people happy!!!
     </h3>
+<!--     <h3>
+     Java | OOP | Functional Programming | Multithreading | Spring | Spring Boot | REST API | Spring Security | MySQL | Hibernate | HTML | CSS | Bootstrap | JavaScript | React | Redux | Node | Git
+    </h3> -->
 </div>
     <div style="width:200px; height: 100px;">
 <a href="https://ibb.co/Swkgdws"><img src="https://i.ibb.co/qYH8WYy/Screenshot-174.png" alt="Screenshot-174" border="0"></a>
