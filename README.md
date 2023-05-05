@@ -92,6 +92,8 @@ I innovate products that make people happy!!!
             alt="sgrprmnk" />
     </p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sgrprmnk&hide_border=true&count_private=true" alt="sgrprmnk" /></p>
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgrprmnk&show_icons=true&locale=en&hide_border=true&count_private=true" alt="sgrprmnk" /></p>
+
 </div>
 </div>
     <div>
