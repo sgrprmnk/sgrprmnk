@@ -14,8 +14,9 @@
    Java Backend | Full Stack Developer
     </h2>
     <h3>
-Passion for building high-quality, innovative, and fully performing software in compliance with both coding standards and technical design.
-I innovate products that make people happy!!!
+Passionate for building high-quality, innovative, and fully performing software in compliance with both coding standards and technical design. Persistence, Perseverance, and Patience with eagerness to meet organizational or strategic objectives with high efficiency.
+     
+<b> I innovate products that make people happy!!! </b>
     </h3>
 <!--     <h3>
      Java | OOP | Functional Programming | Multithreading | Spring | Spring Boot | REST API | Spring Security | MySQL | Hibernate | HTML | CSS | Bootstrap | JavaScript | React | Redux | Node | Git
