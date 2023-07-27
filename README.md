@@ -22,9 +22,7 @@ Passionate for building high-quality, innovative, and fully performing software 
      Java | OOP | Functional Programming | Multithreading | Spring | Spring Boot | REST API | Spring Security | MySQL | Hibernate | HTML | CSS | Bootstrap | JavaScript | React | Redux | Node | Git
     </h3> -->
 </div>
-    <div style="width:200px; height: 100px;">
-<a href="https://ibb.co/Swkgdws"><img src="https://i.ibb.co/qYH8WYy/Screenshot-174.png" alt="Screenshot-174" border="0"></a>
-</div>
+<a href="https://ibb.co/Swkgdws"><img src="https://i.ibb.co/9Hx0VH8/Screenshot-174.png" alt="Screenshot-174" border="0" /></a>
 </div>
     <div>
 <h1>🌐 Socials:</h1>
