@@ -11,7 +11,7 @@
 <div style="display: flex;">
    <div>
     <h2>
-   Java Backend | Full Stack Developer
+   Java Backend Developer
     </h2>
     <h3>
 Passionate for building high-quality, innovative, and fully performing software in compliance with both coding standards and technical design. Persistence, Perseverance, and Patience with eagerness to meet organizational or strategic objectives with high efficiency.
