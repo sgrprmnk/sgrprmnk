@@ -33,7 +33,7 @@ Passionate for building high-quality, innovative, and fully performing software 
     </div>
 <div style="max-width: 1000px; margin: auto;">
 
-<h2 align="center">💻 Tech Stack</h2>
+<h1>💻 Tech Stack</h1>
 
 <div style="
     display: grid;
